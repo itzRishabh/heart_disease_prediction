@@ -1,1 +1,1 @@
-# heart disease analysis
+# heart disease prediction
